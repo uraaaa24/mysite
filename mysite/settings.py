@@ -30,6 +30,8 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
+TIME_ZONE = 'Asia/Tokyo'
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
